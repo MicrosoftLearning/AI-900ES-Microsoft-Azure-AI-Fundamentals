@@ -1,6 +1,6 @@
 # Ejercicios de Fundamentos de Microsoft Azure AI
 
-Este repositorio contiene los ejercicios de laboratorios para el curso [*Fundamentos de Microsoft Azure AI* (AI-900)](https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00) y los [módulos de aprendizaje autodirigido de Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals) Los laboratorios están pensados para complementar los materiales de aprendizaje y permiten practicar el uso de las tecnologías descritas en estos materiales. 
+Este repositorio contiene los ejercicios de laboratorios para el curso [*Fundamentos de Microsoft Azure AI* (AI-900)](https://docs.microsoft.com/es-es/learn/certifications/courses/ai-900t00) y los [módulos de aprendizaje autodirigido de Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals) Los laboratorios están pensados para complementar los materiales de aprendizaje y permiten practicar el uso de las tecnologías descritas en estos materiales. 
 
 ## ¿Qué vamos a hacer?
 

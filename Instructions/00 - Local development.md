@@ -15,5 +15,5 @@ Si trabaja desde su equipo local, puede seguir estos pasos para configurar su en
 ### Visual Studio Code 
 1. Si no tiene instalado Visual Studio Code, [descárguelo aquí]](https://code.visualstudio.com/Download). Después de instalar Visual Studio Code, ábralo y, en la pestaña Extensions (Ctrl + Mayús + X), busque e instale la extensión **Python** de Microsoft.
 
-2. En Visual Studio Code, abra un nuevo terminal, escriba **git clone https://github.com/MicrosoftLearning/mslearn-ai900** y pulse *Entrar*. 
+2. En Visual Studio Code, abra un nuevo terminal, escriba **git clone https://github.com/MicrosoftLearning/AI-900ES-Microsoft-Azure-AI-Fundamentals** y pulse *Entrar*. 
 
